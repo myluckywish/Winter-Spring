@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.6">
+    <DOCUMENT ANZPAGES="11" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="1" DPSo="0" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0008" dispY="10.0008" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="10" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="621.6048" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1223.208" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1824.8112" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2426.4144" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3028.0176" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3629.6208" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="4231.224" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="4832.8272" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="5434.4304" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="6036.0336" PAGEWIDTH="367.2" PAGEHEIGHT="561.6" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="124.715085714286" YPOS="203.287314285714" OwnPage="0" ItemID="69880736" PTYPE="4" WIDTH="333.428571428571" HEIGHT="94.5714285714286" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L333.429 0 L333.429 94.5714 L0 94.5714 L0 0 Z" copath="M0 0 L333.429 0 L333.429 94.5714 L0 94.5714 L0 0 Z" gXpos="124.715085714286" gYpos="203.287314285714" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="20" CH="A Rats Quiet Dream"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="210.572228571429" YPOS="232.715885714286" OwnPage="0" ItemID="66565472" PTYPE="4" WIDTH="146.571428571429" HEIGHT="42.2857142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.571 0 L146.571 42.2857 L0 42.2857 L0 0 Z" copath="M0 0 L146.571 0 L146.571 42.2857 L0 42.2857 L0 0 Z" gXpos="210.572228571429" gYpos="232.715885714286" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="alexander tong"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.062857142857" YPOS="661.485714285714" OwnPage="1" ItemID="80546560" PTYPE="4" WIDTH="287.822857142857" HEIGHT="283.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" PLINEJOIN="128" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L287.823 0 L287.823 283.2 L0 283.2 L0 0 Z" copath="M0 0 L287.823 0 L287.823 283.2 L0 283.2 L0 0 Z" gXpos="140.062857142857" gYpos="661.485714285714" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="7" CH="Falling snow and an eerie silence. A blueish light purple covers the sky. My only conversation is with the crunch of the snow beneath my feet . I am in search for a lake that carries the egg of my new world. Seeking an idea that I can clamp desperately with my teeth. There is a harsh smell of cold at the top of my mouth, it waters my eyes. The sight I desire is a frozen lake, the sun reflecting off its surface softly creating a dancing light. The light drowns me and my filth is forgiven. Each breath that leaves my mouth is a prayer to melt the stones that have stained me gray. To be born anew is a salvation when the skies have been unkind. So I walk and walk."/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="I have been walking forever now. My bones grow weak and my stomach shrinks to nothing. A pounding headache makes me forget why I am walking. Only walking now because it is all I know. A somber walk lead by a faint motivation and an overwhelming hunger. Walking with no sense of self. A breath that no longer seeks virtue. From tree to seed, from human to animal. Inveitable regression. No longer lingers a dream of light. Hunger has torn apart this city. My teeth once prideful foam at the mouth. An uncontrollable urge to consume. What surrounds me is a vast never ending white. I forget myself. Still I walk. Walking and walking."/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="I am an animal that does not eat. An animal that can not see. I am an animal that feeds the soul over the stomach. There is no consequence that brings me fear as I am an animal no longer bound by flesh.. My blood fails me. My legs buckle and I fall. My weak shaking joints last will flips me facing the sun. The snow falling lightly covers my body, it is the soil of my grave. I watch the sun as it kisses me a final goodbye. It tells me that I have one last breath. I breath in. Fading slowly. From seed to ash, from animal to bone. I pray only that my bones become a haven, my heart a tree above the clouds. I breath out.  "/>
+                <trail LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.062857142857" YPOS="961.485714285714" OwnPage="1" ItemID="21959456" PTYPE="4" WIDTH="286.451428571429" HEIGHT="199.119085714286" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" PLINEJOIN="128" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286.451 0 L286.451 199.119 L0 199.119 L0 0 Z" copath="M0 0 L286.451 0 L286.451 199.119 L0 199.119 L0 0 Z" gXpos="140.062857142857" gYpos="961.485714285714" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="When I imagine heaven for me I think about floating down a river on a piece of wood through a jungle. The sound of the water running down stream. Perfect weather, the sun making it hard to see. Clouds out of a studio ghibli movie. I am tired, but there is no work to be done. So I can rest without worry. Birds chirping, maybe the sound of a cicada occasionally.  The jungle has enough scenery on both sides of my where I am not boring, but not too much where it tires me out. In heaven, I am allowed to day dream. So I let my mind travel anywhere it wants to go. No obligation guiding its destination, just feeling. Sometimes ill day dream a dark thought, and then come back to where I am and realize that they are just thoughts. I want to hear the same birds that I heard chirping in my old house when my mom was still alive. The sunlight gushing through the windows. The green of the forest behind the house distorted slightly by the bug catching screen. The sound of birds. The breeze of spring. My favorite smell ever. A feeling that life is good. I truly love nature and I can not imagine a world without it. Animals and trees are not just by products of the jungle to me. I think that the very heart beat of this planet is something that I resonate with. I love this earth its cruelty and its grace. I was born here and I will die here. I feel loved by it."/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.062857142857" YPOS="1375.08891428571" OwnPage="2" ItemID="64582768" PTYPE="4" WIDTH="286.451428571429" HEIGHT="1119.53965714286" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" PLINEJOIN="128" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286.451 0 L286.451 1119.54 L0 1119.54 L0 0 Z" copath="M0 0 L286.451 0 L286.451 1119.54 L0 1119.54 L0 0 Z" gXpos="140.062857142857" gYpos="773.485714285714" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="I day dream of a vast and beautiful field. A light breeze that brings nice smells. The smell of flowers, in my head they are dancing, jumping out of there roots and doing a spin. Reality is mundane, but on a sunny day it is very pretty. I have been searching for my way for years. My instinct tells me that I am close, I can feel myself ready to fall into it. It pulsates under my skin, its heart beat is slowly becoming mine. I have no fear anymore. If this is my coffin then I will not feel dread when the door is closed on me. I will have no disdain or resentment for where I end. It is easy to praise your roots when fruit is blooming, it is easier to love the tree, but a trees life is about being a tree. Fruit or no fruit, a trees life has the same weight. True love for your roots, true love for yourself is love without reward. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="The fear of dying alone, the fear of being alone is common. Its so loud these days, the noise is suffocating. Everything is so complicated. My thoughts are in constant question. An infinite number of thoughts that breed more thoughts. So much noise. I very well could be wrong, but it feels like I have been gifted a reason. This reason has been the sole in my shoes. I was only born to live, but this reason to me is like sunlight. I want to chase after it like a dog. I fear that I will run past the love that was waiting for me. To believe that true love waits, you have to first believe love exists. I have been through many stages of love, I have been driven off of feeling and off of logic. I have never gotten love right. It is hard for me to believe that it is something that touches the soul, that absolute union is possible. I hope that it will wait for me, that it will wait until I can believe in it. It is the question of my life. Does true love wait. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="The decay that I had subjected myself to feels like a bad dream. I feel the sunlight on my back, it makes the suffering feel like imagination. I consume and then wonder where it goes. What makes a human capable in this earth. Abstraction surrounds my life. It is all that I know. It is something that touches me deeply. I remember being a kid and wishing that life were different and more exciting. I felt a genuine pain at the separation from imagination and reality. Ideas are strong, they can make a man yearn, make a man docile or feel important. After stripping away these ideals I wonder what is left. What is nature without imagination. What is reality without logic? If I cut open my chest with the blade of my curiosity what will come of it. I live in constant question. I am curious and anxious, it is almost desperate. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="Shallow breathing, skin to skin. A chill that falls down the staircase. Deep set eye contact. A dimly lit room. A noisy world, but here only two bodies exists. Eyes and flesh in union. Eternal silver walls melting to reveal the cities. Two animals turned to one, drowning in a river of mercury, hand in hand, skin to skin, soul to soul. The scars from the transient flame last forever. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="The only way to leave this race is death. There is no other way to stop the movement of this world. This a race no one ever finishes. You can run as strong as you physically can or drag yourself lifelessly. It makes no difference in this race. There are no flowers because there are no winners. We are born on our feet and we die on them. A great nebula of energy is in bloom and we were born from its fruit. Movement is everything. The nature of life. A seed blooming into a flower, then wilting away. One movement. A life is one motion. One beautiful swing from a brush of deep set ink. Life is a one time gift. One fire, one movement. Once its gone its gone, only one motion. The human race is just a forest fire to this earth, a fever to the mother. Once our fire is extinguished, our only memory will be the scorched wood and the hollow smell of an empty hall way. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="If I climbed every peak and touched every stone where would I find myself? Would I still find myself amongst this earth, am I even there now? A working body is a blessing. Material is fun, but not necessary. Day after day creating sparks. What is the star I chase? To create a sword that can be pierce the wall of heart. To feel the cold hilt, to watch my warmth fade into the blade. I crave to be awake. I crave to feel the extremity of this world, but I am afraid of the consequence. Can I let go of my flesh and my scared heart to feel this world with my soul instead. To fade into the endless ground beneath me. To hug the earth truly to work under the mothers will. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="What is the point of relying on logic. It is a tool, as is everything else. If logic tells you you are unloved would you believe it even if you felt loved? Would your understanding of infinity make you feel small even if you were kissed by one million stars. There is no feeling without a subconscious logic and no logic without a conscious feeling. Our two gifts that have danced with us throughout all of our existence live in union and not as enemy. There are no contradictions only necessary tension. Tools are for building bridges, not to cut your finger."/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="Today is the type of day where you appreciate pouring coffee and feeling the steam that comes from it. I like having a purpose, I like being tortured by it, I like being gratified by it. I am a calculated hedonist, trying desperately to balance what I think will bring me the best feeling later on. I dont like doing calculations I do enough of that for work, I just want to focus on what I am. I shouldn't be so afraid of throwing it all away, or amounting to nothing as long as I am living right I should not have any qualms. I only have goal in this life now and that is to live right. If I am not living right there is nothing else to do. No more hate, no more envy, no more insecurity, no more feeling of loss, no more mental masturbation. Who the hell cares anyway. All those things do is gratify me. Such a waste of energy.  "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="Imagine I die with nothing. Not an accolade or praise. Its not so bad. Not every dog gets to eat. Hungry dogs have charm too. I wont be so down on my self, I really shouldn't be. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.062857142857" YPOS="1263.48571428571" OwnPage="2" ItemID="85614416" PTYPE="4" WIDTH="286.451428571429" HEIGHT="109.314285714286" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" PLINEJOIN="128" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286.451 0 L286.451 109.314 L0 109.314 L0 0 Z" copath="M0 0 L286.451 0 L286.451 109.314 L0 109.314 L0 0 Z" gXpos="140.062857142857" gYpos="1263.48571428571" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="7" CH=" Nothing makes me happier than thinking back to times of my childhood. I am grateful for every event ive experienced so far, but some stick out even among these. Some experiences that ive had as a kid fill me with great love for my life. I want to say now that even if I forget my entire childhood and everything that I have ever experienced. I am grateful for being able to experience what I have. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="I can never be evil. Not with the life I had, it would be a great disgrace. I have lived too good to be nasty. In the same breath, I shouldn't be as weak as I am. It is disgraceful to everyone that has ever treated me with love. It is disservice to my self and my previous life experiences. "/>
+                <trail LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.571428571429" YPOS="2496" OwnPage="4" ItemID="68113600" PTYPE="4" WIDTH="285.942857142857" HEIGHT="665.828571428572" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.943 0 L285.943 665.829 L0 665.829 L0 0 Z" copath="M0 0 L285.943 0 L285.943 665.829 L0 665.829 L0 0 Z" gXpos="140.571428571429" gYpos="2496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="I feel a pool in my head. It has a purple and pink hue. It moves gentle, and feels warm. It spills into my veins. It beats my heart. It opens my pores, so that I can feel light. Swishing and swirling, its movement unpredictable to me, but its resonance is completely calculated. Beautiful truth. There is great pain in eyes who can see color in geometry. Falling star. A loveless body waits for a tremor. A body filled with red must move, for a scared heart is no heart at all. The creases of the brain slowly bloom into a asymmetrical lily.  At its pistil lies regret. A new flower blooms bearing the burdens of the previous. A field cursed from the first seed. A raging fire that wipes the tears of the crying flower. A fire that turns cities to forests and feelings to ashes. Screaming and wailing flowers. A painful transition. A new garden is born, a garden of ash. A new flower blooms. Flower of light, seeker of passion. Feel the soil beneath your feet and bear a fruit that loves. Don't mind the echos from the soil. What happened in this garden bears no weight as the fire has reborn in your bloom. Love and hurt fully. Idle and Occupy fully. Do not hesitate to put your petals into the fire. Good Luck."/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="My eyes are clouds. Heavy but formless. An Engine ignited by the liquid warmth of love. It sends wonders through my body. It hardens this body of glass. Its hard to tell if the light that shines inside of me is in my favor. If its not I pray for its mercy, but either way my body will move. Creaking, the dirt and dust shaking off my joints in every slight motion. Whens the last time ive been alive. What is life but noise. I begin my ascension. Each step exposes the fragility of my skeleton. Hard fought movement. There is no peak in sight of this endeavor. Walking, walking, walking. At this point ive forgotten why I am walking. One foot, then the other. A zombie in walk. Keeping my shaking body together is a memory I have forgotten. This walk, a miracle of metal, but the soul in my breath has long left. I have been brought back to life to die again. Killed by no great evil, but the crushing decay of time. The sunlight I was searching for was not written in my skin. I am feeling, but the feelings disperse from my pores and fade off to nowhere. A long forgotten memory birthed an undying will. I am walking, but I am dead .  "/>
+                <para LINESP="10"/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="If I had the choice to die or have unlimited life. I would have unlimited life. I want to experience it all. A greedy wish I know, but I want to feel what I haven't I want to see what I never would have. I want to know how it ends and how it began. I know life isn't a fairy tale the least I can do is not being afraid of being here. It is the bare minimum. "/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="Somewhere these past years I have lost my touch. I got scared and ran. It is my classic trick. Am I unable to see it through. Why can't I feel it all. When did I but so little value in where I am. Its meaningless I know, but not to me. Is that ok? I am plagued by the thoughts of the future. They haunt my steps tripping me whenever I want to run. I right here vow to only do what I think is right and give no more bread to fate. Whether it happens or it doesn't it is not my obligation to"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH=" think about it. I am not a genius, I can not predict the waves. Watching them for so long has made me crazy. "/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="7" CH="I have no obligation to do anything. I have no obligation to be anything. I dont owe anyone anything. I will pay back what feels right and there is no other thoughts. I dont need to justify my existence when I did not not ask to be here. I will live how I think is right. My feelings will guide me where they will. If I end up worse off, its better than rotting my soul. "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.571428571428" YPOS="3161.14285714286" OwnPage="5" ItemID="33320480" PTYPE="4" WIDTH="285.257142857143" HEIGHT="718.628571428571" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.257 0 L285.257 718.629 L0 718.629 L0 0 Z" copath="M0 0 L285.257 0 L285.257 718.629 L0 718.629 L0 0 Z" gXpos="140.571428571429" gYpos="3161.14285714286" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="Whether I see it all or nothing it doesn't change the weight of my soul. There is its own charm in a quiet fight. In the ones who sit with melancholy where there is no crowd. The ones who enjoy where they are. The unambitious. The innocent. To take from the world you take from others. There is charm in those who work the quiet nights. Who work the Sunday morning and the Monday night. Not everybody can or wants to chase the stars. To love the stars or to love the earth, the act of loving is what weighs the soul. The act of fighting is what sets it ablaze and the act of feeling is its instrument. There is no shame in loving. There is charm in resting while others work and working while others rest. There is charm in difference. There is great beauty in loving a mundane life. There is great beauty in loving a quiet lonely life. The beauty is in the love for life rather than just in the life itself. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="Tip toeing over shattered glass, I feel a sense of nostalgia. A screaming argument that fades into a soft hum. Living is familiar, it is all I know. Only once have I peered over the wall. The water was different than what I was used to. It left me cold and scared. There was no fight, only a realization. A light gust of wind turned me from human to animal. A fear different than all the others I have felt. I blinked and my life felt different. I could see the turmoil of this world. It scared me deeply. It caused me to run. I cried so hard. Not a cry of frustration as I knew I already lost. A cry of a deep longing that I will never feel again. I woke up that morning to the most beautiful sight I have seen. The sun was shining so clearly.  The sky light blue and the wind rustling the grass. The colors of my parents garden were a saturated dream. The plants were breathing sunlight. It was a sight taken from heaven. I had seen this sight before many times. In the summers at my parents house I would always sit in the back yard to start my day. I always appreciated its beauty but today it was something I had never seen before. Facing the decay of my youth for the past few months leading into this moment. I still had never cried, even when I wanted to break out into tears for relief I was never able to force myself to. In this moment I couldn't hold my tears back if I wanted to. They flowed out effortless. Blinding tears I cried holding nothing back. I cried discarding any pride I had left, It was unsightly but it didn't matter to me. I wiped my tears and ran over the cloche that covered the garden. I remember holding one of the flowers and in that moment it was the most beautiful flower I have ever held. I remember feeling the grass, not just with my skin as I used to but with my whole soul holding on to it as if it was the last grass I would ever feel. I remember playing with it like a maniac. I wished that I could stay like this forever. No decay scared me anymore. No more aspirations. No more insecurity. I just wanted to live. There I realized that "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="my whole life I had been a fool. I wore a disguise of someone who had love for this life, while never kissing the ground. Pretending to love this life in hopes that this life would love me for it. Only once I realized the weight of what it means to breath with my body. Only once the gun was pressed against my stomach had I realized the meaningless of aspiration. The comedy in insecurity. The nature of decay. You can only decay if you have something that will. To love this life means to be an animal, to love living no matter the circumstance. "/>
+                <para LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONTSIZE="7" CH="In life tough moments have taught me lessons. I looked them as a gift I mean what else is there to do?. This last lesson taught me that it was a joke. Lessons are useful for the future. So what is the point of the ultimate lesson if it is never able to be used? What use is a star that can light up any room if you will never be in a room again?"/>
+                <trail LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.571428571428" YPOS="3896.22857142857" OwnPage="6" ItemID="61258880" PTYPE="4" WIDTH="285.942857142857" HEIGHT="254.631771428572" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.943 0 L285.943 254.632 L0 254.632 L0 0 Z" copath="M0 0 L285.943 0 L285.943 254.632 L0 254.632 L0 0 Z" gXpos="140.571428571429" gYpos="3294.62537142857" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.571428571428" YPOS="4272.2064" OwnPage="7" ItemID="85995648" PTYPE="4" WIDTH="285.257142857143" HEIGHT="480.257142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.257 0 L285.257 480.257 L0 480.257 L0 0 Z" copath="M0 0 L285.257 0 L285.257 480.257 L0 480.257 L0 0 Z" gXpos="140.571428571429" gYpos="3069" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.571428571428" YPOS="4873.8096" OwnPage="8" ItemID="55928912" PTYPE="4" WIDTH="285.257142857143" HEIGHT="480.257142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.257 0 L285.257 480.257 L0 480.257 L0 0 Z" copath="M0 0 L285.257 0 L285.257 480.257 L0 480.257 L0 0 Z" gXpos="140.571428571429" gYpos="3069" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
